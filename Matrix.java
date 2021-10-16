@@ -1,8 +1,13 @@
-/*
- * [Jayed S. Rafi]
- * [https://github.com/JayedSRafi]
- * [2D matrix alighnment algorithm]
- */
+/*******************************
+ * 
+ * Project: 2D Matrix
+ * Language: Java
+ * Date: April 2021
+ * 
+ * Dev: Jayed Rafi
+ *
+*******************************/
+
 public class Matrix
 {
   private static int row = 5;
